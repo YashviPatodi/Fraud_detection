@@ -1,4 +1,3 @@
-# Fraud_Detection
 # Fraud Detection Using Machine Learning
 
 This project focuses on proactively detecting fraudulent transactions using a machine learning pipeline built on a real-world financial dataset. The goal is to not only build an effective predictive model but also to interpret its insights and propose actionable fraud prevention strategies.
